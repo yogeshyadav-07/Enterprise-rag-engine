@@ -11,7 +11,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
-# Load Environment Variables (.env file se MISTRAL_API_KEY load karega)
+# Load Environment Variables (Load MISTRAL API KEY )
 load_dotenv()
 
 # --- 1. Page Configuration & Professional UI Layout ---
