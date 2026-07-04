@@ -33,8 +33,8 @@ Follow these quick steps to get the environment configured and the dashboard run
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/yogeshyadav-07/Enterprise-rag-engine.git
+cd Enterprise-rag-engine
 
 ```
 
@@ -75,12 +75,4 @@ streamlit run RAG.py
 4. **Context-Aware Query Routing:** The MMR algorithm fetches the top 4 highly distinct relevant fragments.
 5. **Prompt Synthesis & LLM Inference:** System context constraints are programmatically bound with user input and processed deterministically by Mistral Small.
 
-```
 
-### Is README me kya khaas hai?
-1. **Industry Keywords:** Isme **Deterministic Guardrails**, **Semantic Boundaries**, **Context-Aware Routing**, aur **Context-Window Flooding** jaise software development terms use kiye hain, jo dikhate hain ki aapko sirf code chalana nahi aata, balki architectural concepts bhi pata hain.
-2. **Clear Layout:** Table aur clean lists ka use kiya hai taaki recruiters ko ek nazar mein samajh aa jaye ki aapne kaun-kaunsi technologies use ki hain.
-
-Aapki teeno files (`app.py`, `requirements.txt`, `.env.example`) aur yeh `README.md` jab ek sath GitHub par jayengi, toh aapka profile ekdum professional lagega!
-
-```
