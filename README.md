@@ -4,6 +4,11 @@ A high-performance, deterministic **Retrieval-Augmented Generation (RAG)** pipel
 
 ---
 
+### 🌐 Live Deployment
+ https://huggingface.co/spaces/yogesh-yadav/enterprise-rag-engin
+
+
+
 ## 🚀 Key Features
 
 *   **Dynamic PDF Ingestion:** Upload any PDF document via the intuitive sidebar to automatically parse and index its contents on the fly.
@@ -75,7 +80,5 @@ streamlit run RAG.py
 4. **Context-Aware Query Routing:** The MMR algorithm fetches the top 4 highly distinct relevant fragments.
 5. **Prompt Synthesis & LLM Inference:** System context constraints are programmatically bound with user input and processed deterministically by Mistral Small.
 
-'''
-Live Link : https://huggingface.co/spaces/yogesh-yadav/enterprise-rag-engin
-'''
+
 
